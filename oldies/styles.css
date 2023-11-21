@@ -19,13 +19,6 @@
   
   /* Links - change color on hover */
   .topnav a:hover {
-    background-color: #ddd;
+    background-color: #000000;
     color: black;
   }
-
-  /* Clearfix for floats */
-.topnav::after {
-    content: "";
-    clear: both;
-    display: table;
-}
